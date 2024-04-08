@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CFCard")(type "KiCad")(uri "${KIPRJMOD}/CFCard.pretty")(options "")(descr ""))
+)
